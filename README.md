@@ -6,6 +6,10 @@ Software and tools list:
 * Anaconda python
 * Jupyter Notebook
 * tensorflow-1.7.0-cp27-cp27mu-manylinux1_x86_64.whl
+* https://www.tensorflow.org/text/tutorials/text_generation
+* https://github.com/tensorflow/text
+* https://github.com/tensorflow/text/blob/master/docs/tutorials/text_generation.ipynb
+* 
 
 Data sets used for training and testing:
 *
